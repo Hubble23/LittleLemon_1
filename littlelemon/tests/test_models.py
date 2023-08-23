@@ -8,6 +8,5 @@ class MenuTest(TestCase):
         self.assertEqual(item, "fish : 12")
         
         
-#class MenuViewTest(TestCase):
-    #def setUp(self):
+
         
